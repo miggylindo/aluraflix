@@ -1,0 +1,26 @@
+body {
+    color: black;
+    background: red;
+    margin: 0px;
+    font-family: "DM Serif Text", serif;
+}
+
+header {
+    border: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color:black;
+}
+
+section {
+    background: rgb(58,104,187);
+    display: flex;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+
+
+h1{
+    font-size: 32px;
+}
